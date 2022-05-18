@@ -1,0 +1,15 @@
+D:\Documents\C#\2. Receber Valores e Operações\bin\Debug\net6.0\2. Receber Valores e Operações.exe
+D:\Documents\C#\2. Receber Valores e Operações\bin\Debug\net6.0\2. Receber Valores e Operações.deps.json
+D:\Documents\C#\2. Receber Valores e Operações\bin\Debug\net6.0\2. Receber Valores e Operações.runtimeconfig.json
+D:\Documents\C#\2. Receber Valores e Operações\bin\Debug\net6.0\2. Receber Valores e Operações.dll
+D:\Documents\C#\2. Receber Valores e Operações\bin\Debug\net6.0\ref\2. Receber Valores e Operações.dll
+D:\Documents\C#\2. Receber Valores e Operações\bin\Debug\net6.0\2. Receber Valores e Operações.pdb
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.AssemblyInfoInputs.cache
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.AssemblyInfo.cs
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.csproj.CoreCompileInputs.cache
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.dll
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\ref\2. Receber Valores e Operações.dll
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.pdb
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.genruntimeconfig.cache
+D:\Documents\C#\2. Receber Valores e Operações\obj\Debug\net6.0\2. Receber Valores e Operações.csproj.AssemblyReference.cache
