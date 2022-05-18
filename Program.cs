@@ -1,5 +1,5 @@
 //Abertura do projeto:
-namespace Operations
+namespace Operacoes
 {
     //Criação da classe do App:
     class App
