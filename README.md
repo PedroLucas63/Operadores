@@ -1,2 +1,2 @@
 # Operadores
-Repositório dedicado a realizar operações matemáticas.
+Um simples programa dedicado a realização de operações matemáticas.
