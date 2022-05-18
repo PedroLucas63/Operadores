@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Receber Valores e Operações", "2. Receber Valores e Operações.csproj", "{08CD2EC9-EB04-4D2B-9559-01AA1BB0A6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CD2EC9-EB04-4D2B-9559-01AA1BB0A6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CD2EC9-EB04-4D2B-9559-01AA1BB0A6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CD2EC9-EB04-4D2B-9559-01AA1BB0A6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CD2EC9-EB04-4D2B-9559-01AA1BB0A6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DF1A0E-5351-4175-B186-5755E947AEE1}
+	EndGlobalSection
+EndGlobal
